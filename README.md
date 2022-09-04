@@ -3,5 +3,8 @@
 
 <div align="center">
   <h1> Think Computer Science </h1>
+  <img src="https://unsplash.com/photos/w7ZyuGYNpRQ">
 </div>
-![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/95510965/188333586-581a1538-1f7e-40f2-94c4-5bf4892fd138.jpg)
+
+Reposity that'll consits of everything needed for cape computer science unit 1
+
